@@ -134,7 +134,7 @@
         "warning.background": "#21252bee",
         "warning.border": "#e5c07bff",
         "text.muted": "#7f848eff",
-        "editor.gutter.background": "#282a36ff",
+        "editor.gutter.background": "#1e232cff",
         "players": [
           {
             "cursor": "#528bffff",
