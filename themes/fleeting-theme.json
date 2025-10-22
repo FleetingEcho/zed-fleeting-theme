@@ -767,17 +767,14 @@
           },
           "type": {
             "color": "#97e1f1ff",
-            "font_style": "italic",
             "font_weight": null
           },
           "type.interface": {
             "color": "#a3f0ffff",
-            "font_style": "italic",
             "font_weight": null
           },
           "type.super": {
             "color": "#a3f0ffff",
-            "font_style": "italic",
             "font_weight": null
           },
           "variable": {
